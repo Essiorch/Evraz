@@ -1,0 +1,48 @@
+
+
+.grafiks {
+  display: flex;
+}
+.grafiks p, .grafiks ul {
+  line-height: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+.parameters {
+  width: 235px;
+}
+label {
+  margin-left: 10px;
+}
+.exhausterComponent {
+  width: 268px;
+  border-radius: 5%;
+  border: 1px solid black;
+  margin: 30px 30px;
+}
+
+.listOfFirstScreen {
+  width: 260px;
+  height: 20px;
+  border: 1px groove black;
+  padding: 0;
+  display: flex;
+  margin-bottom: 3px;
+}
+.listOfFirstScreen p {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-right: 50px;
+  line-height: 0;
+
+}
+.listOfFirstScreen img:first-of-type {
+  margin-left: auto;
+  margin-right: 3px;
+}
+.listOfFirstScreen div {
+  margin-left: auto;
+  margin-top: 0;
+  padding: 0;
+}
